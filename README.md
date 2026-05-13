@@ -1,2 +1,9 @@
-# ATM_Proj
-Simple Bank System in MIPS Assembly
+# ATM_Project
+
+## Simple Bank System in MIPS Assembly using MARS Simulator
+
+## Features:
+- Check/Desposit
+- Withdraw
+- Transaction Counter
+- Bill Receipt
